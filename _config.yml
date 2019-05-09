@@ -1,0 +1,17 @@
+# Site settings
+title: Sumit Mondal
+email: sumitmondal@gatech.edu
+author: Sumit Mondal
+description: Personal Site
+url: 'http://localhost:4000'
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
+
+
+# Social icons
+show_social_icons: true
+github_username: sumitmondal
+linkedin_username: sumit-mondal

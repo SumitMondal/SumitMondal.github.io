@@ -1,0 +1,17 @@
+.navbar{
+  opacity: 0.8;
+  background: #b3b3b3;
+
+  .nav-item{
+    font-size: 1.0rem;
+    text-align: right;
+  }
+}
+
+.nav-link {
+  color: $info !important;
+
+  &:hover {
+    color: $secondary !important;
+  }
+}
