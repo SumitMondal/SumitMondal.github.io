@@ -17,7 +17,6 @@ In my freetime, I enjoy skateboarding, hiking, and listening to music. I am an a
 
 If you are at all interested in what I am working on please feel free to email me [__here__](mailto:sumitmondal@gatech.edu).
 
-[curriculum vitae]
-
+<a href="/docs/cv.pdf">[curriculum vitae]</a>
 
 
