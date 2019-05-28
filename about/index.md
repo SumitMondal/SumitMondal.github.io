@@ -5,7 +5,7 @@ published: true
 ---
 <img src="/images/thatsme.JPG" style="width: 35%; float:left;margin:0 1em 1em 1em;" alt="Sumit" />
 
-My name is Sumit Mondal.
+My name is **Sumit Mondal**.
 
 I am an ECE graduate student at the [Georgia Institute of Technology](https://www.ece.gatech.edu/).
 
