@@ -15,7 +15,7 @@ My research group, [Intelligent Digital Communications](http://www.vip.gatech.ed
 
 In my freetime, I enjoy skateboarding, hiking, and listening to music. I am an avid traveler and love experiencing new cultures, especially through food!
 
-If you are at all interested in what I am working on, or want my resume, please feel free to email me [__here__](mailto:sumitmondal@gatech.edu).
+If you are at all interested in what I am working on, please feel free to email me [__here__](mailto:sumitmondal@gatech.edu).
 
 
 
