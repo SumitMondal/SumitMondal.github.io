@@ -7,11 +7,11 @@ published: true
 
 My name is **Sumit Mondal**.
 
-I received my Bachelor's & Master's degrees in ECE from the [Georgia Institute of Technology](https://www.ece.gatech.edu/).
+I am a digital signal processing fanatic.
 
-My technical expertise is in Digital Signal Processing and Digital Design.
+I received my Bachelor's & Master's degrees in ECE from [Georgia Tech](https://www.ece.gatech.edu/).
 
-I am an incoming Design Verification Engineer at Microsoft in Raleigh, NC.
+My research team, [Intelligent Digital Communications](https://www.vip.gatech.edu/teams/intelligent-digital-communications), is at the forefront of building cognitive radio networks.
 
 In my freetime, I enjoy skateboarding, hiking, and listening to music. I am an avid traveler and love experiencing new cultures, especially through food!
 
