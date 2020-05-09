@@ -1,17 +1,8 @@
 ---
+title: About Me
 layout: project
+published: true
 ---
-<!--
-<div class="container">
-  <div class="row">
-    <div class="col">
-     <h1 class="text-primary">Projects</h1>
-     <br>
-    </div>
-  </div>
-</div>
--->
-
 <div class="container">
   <div class="row">
     <div class="col">
