@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>sumit mondal</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico"/>
+
+
+</head>
+
+  <body>
+    <!-- NAV -->
+<nav class="navbar navbar-expand-md navbar-light py-4">
+  <div class="container">
+    <a href="/" class="navbar-brand">
+      <h3 class="d-inline align-middle pl-3 text-primary">Sumit Mondal</h3>
+    </a>
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a href="/" class="nav-link">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="/projects/" class="nav-link">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a href="/about/" class="nav-link">About</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="container">
+  <div class="row">
+    <div class="col">
+      <br />
+      <h2 class="text-secondary">Sobel Filter Implementation on Basys 3 FPGA</h2>
+      <p><img src="/images/sobel.png" style="width: 36%;display: block; float:left;margin:0 1em 1em 1em;" alt="cover" /></p>
+      <p>Image processing, especially at higher resolutions, can be computationally intensive. An FPGA implementation of an image processing algorithm can greatly expedite runtime. I decided to implement the Sobel operator, a 3x3 convolutional filter, on the Basys 3 FPGA board using VHDL. The Sobel filter is particularly interesting because it highlights the edges of an image, as seen to the left. </p>
+      <p>The input images were 640x480, and were first stored into the FPGA Block RAM, then sent through a 9-value buffer,and then the Sobel operator was performed. Finally, the output image was stored into the remaining FPGA Block RAM, and outputted to a 640x480 monitor via a VGA controller.</p>
+      <br />
+      <p> Links: </p>
+      <p><a href="https://github.com/SumitMondal/Edge_Detection_Basys3">Github</a></p>
+      <p>    <a href="/docs/sobel_paper.pdf">Design Report</a></p>
+      <br /> 
+    </div>
+  </div>
+</div>
+
+    <footer class= "page-footer fixed-bottom">	
+	<div class="container">
+		<div class="row row-padded">
+			<div class="col-md-12 text-center">
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+<!-- JS -->
+<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  </body>
+</html>
+
