@@ -9,7 +9,7 @@ My name is **Sumit Mondal**.
 
 I received my Bachelor's & Master's degrees in ECE from the [Georgia Institute of Technology](https://www.ece.gatech.edu/).
 
-My technicial expertise is in Digital Signal Processing and Digital Design.
+My technical expertise is in Digital Signal Processing and Digital Design.
 
 I am an incoming Design Verification Engineer at Microsoft in Raleigh, NC.
 
