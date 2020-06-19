@@ -3,7 +3,7 @@ title: About Me
 layout: default
 published: true
 ---
-<img src="/images/thatsme_1.JPG" style="width: 35%; float:left;margin:0em 1em 1em 2em;" alt="Sumit" />
+<img src="/images/thatsme_1.jpg" style="width: 35%; float:left;margin:0em 1em 1em 2em;" alt="Sumit" />
 
 My name is **Sumit Mondal**.
 

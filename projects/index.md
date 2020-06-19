@@ -75,7 +75,7 @@ published: true
     <div class="col">
       <br>
       <a href="/posts/blimp"><h2 class="text-secondary" >Blimp My Ride (Capstone Design Project)</h2></a>       
-            <a href="/posts/blimp"><img src="/images/blimp.jpg" style="width: 50%;display: block; float:left;margin:0 1em 1em 1em;"></a>
+            <a href="/posts/blimp"><img src="/images/blimp.JPG" style="width: 50%;display: block; float:left;margin:0 1em 1em 1em;"></a>
         </div>
     </div>
   </section>
