@@ -13,7 +13,7 @@ published: true
  	  <div class="row">
     <div class="col">
       <br>
-      <a href="/posts/wormhole"><h2 class="text-secondary" >Wormhole NoC Router </h2></a>       
+      <a href="/posts/wormhole"><h2 class="text-secondary">Wormhole NoC Router </h2></a>       
             <a href="/posts/wormhole"><img src="/images/wormhole1.jpg" style="width: 50%;display: block; float:left;margin:0 1em 1em 1em;"></a>
         </div>
     </div>
